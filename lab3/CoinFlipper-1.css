@@ -1,0 +1,60 @@
+/*
+Class: SE2840 - JavaScript Coin Flipper DOM
+Name: Denise Malisa
+Class Section: 031
+*/
+
+/* TODO: Document styling goes here */
+
+body{
+    background-color: lightpink;
+    font-family: Garamond, serif ;
+}
+
+.label{
+    margin: 25px;
+    background-color: whitesmoke;
+    color: midnightblue;
+    border-color: lavenderblush;
+    border-style: outset;
+}
+
+#coins{
+    width: fit-content;
+    background-color: whitesmoke;
+    border-color: lavenderblush;
+    border-radius: 20px;
+    alignment: right;
+    color: red;
+}
+
+#flips{
+    width: fit-content;
+    background-color: whitesmoke;
+    border-color: lavenderblush;
+    border-radius: 10px;
+    alignment: right;
+    color: red;
+}
+
+#num_of_Coins{
+    border-style: dashed;
+    border-radius: 5px;
+    border-color: cadetblue;
+}
+
+#num_Of_Flips{
+    margin-left: 50px;
+    border-style: dashed;
+    border-radius: 5px;
+    border-color: cadetblue;
+}
+
+#button{
+    width: 365px;
+    height: 30px;
+    margin-left: 25px;
+    text-align: center;
+    border-style: solid;
+    border-color: cadetblue;
+}

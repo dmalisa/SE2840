@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "collections": "^5.1.13",
+    "express": "^4.17.2",
+    "jshint": "^2.13.4",
+    "mocha": "^9.2.0"
+  }
+}

@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, serif;
+    color: black;
+    background-color: gray;
+}
+
+ul {
+    width: 50%;
+}
+
+h1{
+    color: green;
+}
+span{
+    color: blue;
+}
+
+h2{
+    color: magenta;
+}
+
+p:hover{
+    color: purple;
+}
+#line1 {
+    border: 5px dotted black;
+    margin: 10px;
+    padding: 5px;
+    background-color: red;
+}
+#line2 {
+    border: 5px dotted black;
+    margin: 10px;
+    padding: 5px;
+    background-color: orange;
+}
+#line3 {
+    border: 5px dotted black;
+    margin: 10px;
+    padding: 5px;
+    background-color: yellow;
+}
+#line4 {
+    border: 5px dotted black;
+    margin: 10px;
+    padding: 5px;
+    background-color: green;
+}
